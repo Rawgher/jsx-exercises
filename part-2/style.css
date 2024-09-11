@@ -1,0 +1,11 @@
+.tweet-ul {
+  background-color: grey;
+  max-width: 300px;
+  width: 100%;
+}
+
+.tweet-ul li {
+  line-height: 1.5;
+  font-size: 16px;
+  color: #fff;
+}
